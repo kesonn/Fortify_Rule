@@ -1,6 +1,7 @@
 # Fortify_Rule
 
 ### Decode Fortify Rule Bin File Get XML File
+![](./rule.png)
 
 java 代码地址： http://gv7.me/articles/2019/fortify-rule-library-decryption-process/
 
