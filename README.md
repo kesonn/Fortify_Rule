@@ -32,5 +32,11 @@ C:\Users\CTF\Downloads\apk\Fortify SCA 20.1.1\bin>
 
 ![](./decode.png)
 
+Xml File
+
+![](./xml.png)
+
 打包jar文件
+
+https://github.com/jas502n/Fortify_Rule/releases/download/1.0/Fortify_Rule.jar
 
